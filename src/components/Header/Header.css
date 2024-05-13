@@ -1,0 +1,22 @@
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 30px 0;
+}
+
+nav ul {
+  display: flex;
+  gap: 25px;
+}
+
+nav ul li {
+  list-style: none;
+}
+
+nav ul li a {
+  color: #000;
+  text-decoration: none;
+  font-family: sans-serif;
+  font-size: 1rem;
+}
