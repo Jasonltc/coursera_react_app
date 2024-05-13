@@ -1,5 +1,9 @@
 function Header() {
-  return <div>Log in</div>;
+  return (
+    <div>
+      <p>Log in</p>
+    </div>
+  );
 }
 
 export default Header;
