@@ -1,6 +1,9 @@
+import greek from "../assets/greek salad.jpg";
+import bruchetta from "../assets/bruchetta.svg";
+
 export const Menu = [
   {
-    image: "",
+    image: greek,
     title: "Greek salad",
     description:
       "This easy Greek salad recipe is refreshing & delicious! Made with cucumber, tomatoes, olives, peppers, & feta, Greek salad is the best summer side dish.",
@@ -8,7 +11,7 @@ export const Menu = [
     order: "Order a delivery",
   },
   {
-    image: "",
+    image: bruchetta,
     title: "Bruchetta",
     description:
       "Bruschetta is an Italian antipasto consisting of grilled bread often topped with olive oil and salt. Most commonly it is served with toppings of tomato, vegetables, beans, cured meat, and/or cheese. In Italy,",
@@ -16,7 +19,7 @@ export const Menu = [
     order: "Order a delivery",
   },
   {
-    image: "",
+    image: greek,
     title: "Lemon Dessert",
     description:
       "Bake a stunning lemon sponge cake, a creamy citrus cheesecake or a zesty sorbet with our best-ever lemon dessert recipes, perfect for entertaining.",

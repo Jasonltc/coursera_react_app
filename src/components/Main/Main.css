@@ -1,0 +1,90 @@
+.section-intro {
+  background-color: #495e57;
+}
+
+.intro-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 0;
+  max-width: 1100px;
+  margin: auto;
+}
+
+.intro {
+  max-width: 500px;
+  width: 100%;
+}
+
+.restoName {
+  color: #c3a510;
+  font-size: 40px;
+  margin: 0 0 30px 0;
+}
+
+.restoName span {
+  display: block;
+  color: #fff;
+  font-size: 20px;
+}
+
+.intro p {
+  color: #fff;
+  line-height: 22px;
+  max-width: 300px;
+  margin-bottom: 30px;
+}
+
+.img-wrapper {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  transform: translateY(60px);
+}
+
+.restaurant-img {
+  width: 300px;
+  height: 300px;
+  border-radius: 20px;
+}
+
+.special-weeks {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1100px;
+  margin: 100px auto;
+}
+
+.menu-wrapper {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1100px;
+  margin: 100px auto;
+}
+
+.menuShot {
+  width: 33%;
+}
+
+.menuShot {
+  width: 33%;
+}
+
+.menuShot img {
+  width: 100%;
+}
+
+.item-name {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.menuShot p {
+  padding: 0 10px;
+}
+
+.footer {
+  max-width: 1100px;
+  margin: 100px auto;
+}
